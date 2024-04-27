@@ -1,0 +1,33 @@
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path:  
+train: images/train  # train images (relative to 'path') 4 images
+val: images/val  # val images (relative to 'path') 4 images
+test: images/test
+
+# Classes
+names:
+ 
+ #from img/org/dctz202/22itpf
+  0: church
+  1: lantern
+  2: person
+  3: motorcycle
+  4: cross
+  5: churchtower
+  6: tower
+  7: roadsign
+  8: archway
+  9: statue
+  10: chimney
+  11: cyclist
+  12: tree
+  13: bench
+  14: car
+  15: lighthouse
+  16: clock
+  17: flag
+  18: pillar
+  19: well
+ 
+
