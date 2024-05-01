@@ -8,7 +8,7 @@ test: images/test
 # Classes
 names:
  
- #from img/org/dctz202/22itpf
+ 
   0: church
   1: lantern
   2: person
@@ -29,5 +29,10 @@ names:
   17: flag
   18: pillar
   19: well
- 
+  20: statue 
+  21: flower
+  22: bird
+  23: windmill
+  24: portal
+  25: skyscraper
 
